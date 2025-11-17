@@ -70,7 +70,7 @@ Proyecto académico desarrollado para fines educativos.
 ## 📬 Contacto
 
 Si tiene dudas o comentarios, puede escribir a:  
-📧 *[00344@uca.edu.sv]*
+📧 *[00344625@uca.edu.sv]*
 
 ---
 
